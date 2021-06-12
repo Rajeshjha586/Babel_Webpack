@@ -1,0 +1,8 @@
+//Webpack
+
+npm install webpack@4.32.2 --save-dev
+npm install webpack-cli@3.3.2 --save-dev
+npm install webpack-dev-server@3.5.1 --save-dev
+
+//**********************************************
+npm install webpack@2.1.0-beta.22 --save-dev
